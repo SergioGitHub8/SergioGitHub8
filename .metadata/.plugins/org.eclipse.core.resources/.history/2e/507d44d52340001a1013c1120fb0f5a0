@@ -1,0 +1,11 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Persona Person1 = new Persona("Sergio", 'H', 24, "Calle la Torre, 95 Elx");
+		System.out.println(Person1);
+		Cliente Person1 = new Cliente("Sergio", 'H', 24, "Calle la Torre, 95 Elx", 5, 28/11/1995, true)
+	}
+
+}

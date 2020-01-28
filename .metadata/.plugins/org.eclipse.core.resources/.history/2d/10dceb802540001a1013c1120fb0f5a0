@@ -1,0 +1,10 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Cliente Cliente1 = new Cliente();
+		System.out.println(Cliente1);
+	}
+
+}
