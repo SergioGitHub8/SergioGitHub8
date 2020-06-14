@@ -6,7 +6,7 @@ public class Versiones {
 		System.out.println("Prueba de version 0.0.1-SNAPSHOT");
 		System.out.println("Prueba de version 0.0.2-SNAPSHOT");
 		System.out.println("Prueba de version 0.0.3-SNAPSHOT");
-		System.out.println("Prueba de version 0.0.3-SNAPSHOT-DEVELOP");	
+		System.out.println("Prueba de version 0.0.4-SNAPSHOT-DEVELOP");	
 	}
 
 }
